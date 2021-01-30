@@ -8,3 +8,5 @@
   적용하고 누설 전류 값을 측정합니다.
 2. 전압, 전류 데이터를 정기적으로 기록하고, 로깅데이터를 CSV 파일 형태로 저장합니다.
 3. Chamber와의 Serial 통신을 통한, 온도 제어가 가능합니다.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68735491/106352299-45262680-6325-11eb-8221-95e07ec2d307.gif)
